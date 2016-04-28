@@ -1,0 +1,24 @@
+
+lister toutes les images du repertoires img/ (php;net.glob)
+
+faire une boucle pour chaque image listee au point 1a.
+1. Faire une requete qui va chercher un nom de produit associe a chaque image du repertoire img/*
+
+²	Nettoyer le nom de produit pour remplacer
+		-les espaces par des tirets
+		-tous les caracteres speciaux
+		-tous les caracteres accentues oar kles equivaklent non accentue
+
+renommer les fichiers dèu repertoire img avec les ,nouveau nom(php,net/rename)
+
+
+
+exo 2
+
+voir consignes cahier
++ 1.faire une boucle $contents
+et pour chaque entree du tableau
+ creer un fichier'lorem.txt" dans le repertoire "lorem"
+ avec le contenu renvoye par le foreach
+
++2.
